@@ -16,6 +16,7 @@
 | 6 | [이벤트는 어떻게 유실 없이 전달할까?](https://shout-to-my-mae.tistory.com/530) | Outbox, At-least-once |
 | 7 | [분산 환경에서는 트랜잭션을 어떻게 관리할까?](https://shout-to-my-mae.tistory.com/531) | MSA, Saga, CAP |
 | 8 | [분산 시스템에서는 조회를 어떻게 설계할까?](https://shout-to-my-mae.tistory.com/532) | CQRS |
+| 9 | [InnoDB는 Commit을 어떻게 처리할까?](https://shout-to-my-mae.tistory.com/533) | Redo Log, WAL, Doublewrite Buffer |
 
 ---
 
