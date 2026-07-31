@@ -21,6 +21,16 @@
 
 ---
 
+## 설계
+
+가상 면접 사례로 배우는 대규모 설계 책 설계
+
+| # | 제목 | 키워드 |
+|---|---|---|
+| 1 | 처리율 제한 장치 - [소규모](https://github.com/Starlight258/mila-engineering-notes/blob/main/%EC%84%A4%EA%B3%84/%EC%B2%98%EB%A6%AC%EC%9C%A8-%EC%A0%9C%ED%95%9C-%EC%9E%A5%EC%B9%98/%EC%86%8C%EA%B7%9C%EB%AA%A8.md) / [중간 규모](https://github.com/Starlight258/mila-engineering-notes/blob/main/%EC%84%A4%EA%B3%84/%EC%B2%98%EB%A6%AC%EC%9C%A8-%EC%A0%9C%ED%95%9C-%EC%9E%A5%EC%B9%98/%EC%A4%91%EA%B0%84%EA%B7%9C%EB%AA%A8.md) | 슬라이딩 윈도우, 토큰 버킷 |
+
+---
+
 ## 성능 최적화
 
 > 🚧 작성 예정
