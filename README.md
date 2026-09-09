@@ -30,6 +30,7 @@
 | 1 | 4장. 처리율 제한 장치 - [소규모](https://github.com/Starlight258/mila-engineering-notes/blob/main/%EC%84%A4%EA%B3%84/%EC%B2%98%EB%A6%AC%EC%9C%A8-%EC%A0%9C%ED%95%9C-%EC%9E%A5%EC%B9%98/%EC%86%8C%EA%B7%9C%EB%AA%A8.md) / [중간 규모](https://github.com/Starlight258/mila-engineering-notes/blob/main/%EC%84%A4%EA%B3%84/%EC%B2%98%EB%A6%AC%EC%9C%A8-%EC%A0%9C%ED%95%9C-%EC%9E%A5%EC%B9%98/%EC%A4%91%EA%B0%84%EA%B7%9C%EB%AA%A8.md) | 슬라이딩 윈도우, 토큰 버킷 |
 | 2 | 7장. id 생성기 - [대규모](https://github.com/Starlight258/mila-engineering-notes/blob/main/%EC%84%A4%EA%B3%84/7-id-%EC%83%9D%EC%84%B1%EA%B8%B0/%EB%8C%80%EA%B7%9C%EB%AA%A8.md) | Snowflake, NTP |
 | 3 | 8장. url 단축기 - [대규모](https://github.com/Starlight258/mila-engineering-notes/blob/main/%EC%84%A4%EA%B3%84/8-url-%EB%8B%A8%EC%B6%95%ED%82%A4/%EB%8C%80%EA%B7%9C%EB%AA%A8.md) | base-62, edge/cdn |
+| 4 | 9장. 웹 크롤러 - [대규모](https://github.com/Starlight258/mila-engineering-notes/blob/main/%EC%84%A4%EA%B3%84/9-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%9F%AC/%EB%8C%80%EA%B7%9C%EB%AA%A8.md) | Url Frontier, SimHash |
 
 ---
 
