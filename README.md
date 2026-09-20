@@ -31,6 +31,8 @@
 | 2 | 7장. id 생성기 - [대규모](https://github.com/Starlight258/mila-engineering-notes/blob/main/%EC%84%A4%EA%B3%84/7-id-%EC%83%9D%EC%84%B1%EA%B8%B0/%EB%8C%80%EA%B7%9C%EB%AA%A8.md) | Snowflake, NTP |
 | 3 | 8장. url 단축기 - [대규모](https://github.com/Starlight258/mila-engineering-notes/blob/main/%EC%84%A4%EA%B3%84/8-url-%EB%8B%A8%EC%B6%95%ED%82%A4/%EB%8C%80%EA%B7%9C%EB%AA%A8.md) | base-62, edge/cdn |
 | 4 | 9장. 웹 크롤러 - [대규모](https://github.com/Starlight258/mila-engineering-notes/blob/main/%EC%84%A4%EA%B3%84/9-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%9F%AC/%EB%8C%80%EA%B7%9C%EB%AA%A8.md) | Url Frontier, SimHash |
+| 5 | 10장. 알림 시스템 - [대규모](https://github.com/Starlight258/mila-engineering-notes/blob/main/%EC%84%A4%EA%B3%84/10-%EC%95%8C%EB%A6%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C/%EB%8C%80%EA%B7%9C%EB%AA%A8.md) | FCM, Queue |
+
 
 ---
 
